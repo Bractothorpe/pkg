@@ -7,23 +7,8 @@
   },
   "license": "MIT",
   "homepage": "https://example.com",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/username/example-package.git"
-  },
-  "scripts": {
-    "install": "python install.py",
-    "test": "pytest",
-    "build": "python setup.py build"
-  },
   "keywords": ["example", "package", "demo"],
-  "dependencies": [
-    {
-      "name": "dependency-package",
-      "version": ">=1.0.0"
-    }
-  ],
   "engines": {
-    "python": ">=3.6"
+    "python": ">=3.2"
   }
 }
