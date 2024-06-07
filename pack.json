@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "description": "A short description of the example package.",
+  "author": {
+    "name": "Author Name",
+    "email": "author@example.com"
+  },
+  "license": "MIT",
+  "homepage": "https://example.com",
+  "keywords": ["example", "package", "demo"],
+  "engines": {
+    "python": ">=3.2"
+  }
+}
