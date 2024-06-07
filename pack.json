@@ -5,6 +5,9 @@
     "name": "Author Name",
     "email": "author@example.com"
   },
+  "dependencies": {
+    "other": ">=1.0.0"
+  },
   "license": "MIT",
   "homepage": "https://example.com",
   "keywords": ["example", "package", "demo"],
